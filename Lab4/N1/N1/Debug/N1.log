@@ -1,0 +1,4 @@
+﻿  N1.cpp
+c:\git\practice\lab4\n1\n1\n1.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  N1.vcxproj -> C:\Git\Practice\Lab4\N1\Debug\N1.exe
+  N1.vcxproj -> C:\Git\Practice\Lab4\N1\Debug\N1.pdb (Partial PDB)
