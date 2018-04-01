@@ -1,4 +1,2 @@
 ﻿  N1.cpp
-d:\git\practice\lab7\n1\n1\n1.cpp(13): warning C4305: инициализация: усечение из "double" в "float"
-d:\git\practice\lab7\n1\n1\n1.cpp(14): warning C4305: инициализация: усечение из "double" в "float"
   N1.vcxproj -> D:\Git\Practice\Lab7\N1\Debug\N1.exe
