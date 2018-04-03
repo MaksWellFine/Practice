@@ -1,0 +1,5 @@
+﻿  N4.cpp
+c:\git\practice\lab7\n4\n4\n4.cpp(25): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\git\practice\lab7\n4\n4\n4.cpp(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  N4.vcxproj -> C:\Git\Practice\Lab7\N4\Debug\N4.exe
+  N4.vcxproj -> C:\Git\Practice\Lab7\N4\Debug\N4.pdb (Partial PDB)
