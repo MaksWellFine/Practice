@@ -1,0 +1,7 @@
+﻿  N1.cpp
+c:\git\practice\lab9\n1\n1\n1\n1.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\git\practice\lab9\n1\n1\n1\n1.cpp(22): warning C4018: '>=': signed/unsigned mismatch
+c:\git\practice\lab9\n1\n1\n1\n1.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\git\practice\lab9\n1\n1\n1\n1.cpp(56): warning C4018: '<': signed/unsigned mismatch
+  N1.vcxproj -> C:\Git\Practice\Lab9\N1\N1\Debug\N1.exe
+  N1.vcxproj -> C:\Git\Practice\Lab9\N1\N1\Debug\N1.pdb (Partial PDB)
